@@ -2,6 +2,7 @@ package Bank;
 
 public class BankAcount {
 	String name;
+	String some;
 	int periodMounths;
 	double interestYearProcent;
 	double presentsLeva;
